@@ -75,4 +75,4 @@ Contributions are welcome! Please follow these steps:
 
 ---
 _Developed with ❤️ by RackOn Team._
-# RackON-by-AviDhrithi
+RackON-by-TeamAviDhrithi
